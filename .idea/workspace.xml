@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b5ca9dd-a2fb-43a1-9db6-ad60e43d1ffa" name="Changes" comment="Выполнено ДЗ2">
+    <list default="true" id="3b5ca9dd-a2fb-43a1-9db6-ad60e43d1ffa" name="Changes" comment="Выполнено ДЗ3">
+      <change afterPath="$PROJECT_DIR$/src/HW4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="HomeWork1" />
+        <entry key="$PROJECT_DIR$" value="HomeWork3" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -41,7 +42,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.HW3">
+  <component name="RunManager" selected="Application.HW4">
     <configuration name="HW2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HW2" />
       <module name="JavaForQA" />
@@ -56,8 +57,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HW4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW4" />
+      <module name="JavaForQA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HW4" />
         <item itemvalue="Application.HW3" />
         <item itemvalue="Application.HW2" />
       </list>
@@ -86,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667156042583</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Выполнено ДЗ3">
+      <created>1668536634598</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668536634598</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -103,6 +119,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Выполнено ДЗ1" />
     <MESSAGE value="Выполнено ДЗ2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Выполнено ДЗ2" />
+    <MESSAGE value="Выполнено ДЗ3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Выполнено ДЗ3" />
   </component>
 </project>
