@@ -1,5 +1,6 @@
 package HomeWork5;
 
+
 // создаем класс "Сотрудник"
 public class Employee {
     // инициируем необходимые поля

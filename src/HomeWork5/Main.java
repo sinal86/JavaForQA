@@ -1,5 +1,6 @@
 package HomeWork5;
 
+
 public class Main {
     public static void main(String[] args) {
         Employee[] employeeArray = new Employee[5]; // инициируем массив сотрудников и заполняем его
